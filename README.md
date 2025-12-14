@@ -4,14 +4,14 @@ Static landing page developed to practice **HTML** and **CSS**, focusing on layo
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project represents a landing page for a fictional lawyers association.  
 It was created as part of a frontend learning process to reinforce fundamental web development concepts.
 
 ---
 
-## ✨ Features
+## Features
 - Static landing page layout
 - Organized sections (hero, services, about, testimonials)
 - Visual assets and icons
@@ -20,24 +20,24 @@ It was created as part of a frontend learning process to reinforce fundamental w
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 - Practice semantic HTML
 - Improve CSS layout and styling
 - Organize assets in a real-world page structure
 
 ---
 
-## ▶️ Running the project
+## Running the project
 
 Simply open the `index.html` file in your browser.
 
 ---
 
-## 🧠 Notes
+## Notes
 This is a learning-focused project and not intended as a production-ready application.

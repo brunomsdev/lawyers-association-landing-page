@@ -1,22 +1,43 @@
-# DC Advogados Associados
-Website for DC Advogados Associados, a law firm offering personalized legal services across multiple specialties. This project showcases the firm's professionalism, values, and commitment to justice through a modern and responsive web design.
-About the Project
-This is a static website built with HTML and CSS. It includes sections for services, testimonials, team introduction, and contact information. The design emphasizes clarity, trust, and elegance using a dark blue and gold color palette.
+# Lawyers Association Landing Page
 
-<img width="1890" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d9eab16-88fb-4767-8d3c-974be3ae8a07" />
+Static landing page developed to practice **HTML** and **CSS**, focusing on layout, visual structure, and content organization.
 
-# Technologies Used
+---
+
+## 📌 Project Overview
+
+This project represents a landing page for a fictional lawyers association.  
+It was created as part of a frontend learning process to reinforce fundamental web development concepts.
+
+---
+
+## ✨ Features
+- Static landing page layout
+- Organized sections (hero, services, about, testimonials)
+- Visual assets and icons
+- Clean HTML structure
+- CSS styling and layout
+
+---
+
+## 🛠 Tech Stack
 - HTML5
 - CSS3
-- Google Fonts (Roboto)
-- Flexbox for layout
-- Responsive design principles
-# Project Structure
-DC-Advogados/ ├── index.html ├── style.css ├── img/ ├── logo.png ├── justica.png ├── balanca.png ├── advogado.png ├── usuario.png ├── estrelas.png ├── aspas.png ├── banner-aperto-maos.png
-# Features
-- Fixed navigation bar with smooth hover effects
-- Hero section with call-to-action
-- Service cards for legal specialties
-- Team introduction with biography
-- Client testimonials with star ratings
-- Footer with contact prompt and credits
+
+---
+
+## 📚 Learning Goals
+- Practice semantic HTML
+- Improve CSS layout and styling
+- Organize assets in a real-world page structure
+
+---
+
+## ▶️ Running the project
+
+Simply open the `index.html` file in your browser.
+
+---
+
+## 🧠 Notes
+This is a learning-focused project and not intended as a production-ready application.
